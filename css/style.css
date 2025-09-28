@@ -436,7 +436,7 @@ img {
     border-radius: 25px;
     background-color: var(--red);
     position: relative;
-    bottom: 70px;
+    bottom: 250px;
     left: 600px;
     padding: 20px;  
 }
